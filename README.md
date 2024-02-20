@@ -6,5 +6,5 @@ This is repozitorium we solve problems in various ways.
 <li><b> Каждая четная буква в слове заглавная.</b></li>
 <li><b>Данна функция с массивом и количеством чанков.</b></li>
 <li><b>Обход объекта и вывод ключей.</b></li>
-<li><b></li>
+<li><b></b></li>
 </ol>
