@@ -1,6 +1,6 @@
 # js__tasks
 
-This <i>is repozitorium we solve problems in various ways</i>.
+This <i>is repozitorium we solve problems in various ways</i.
 <ol>
 
 <li><b> Каждая четная буква в слове заглавная.</b></li>
